@@ -3,3 +3,4 @@ export CHROME_EXECUTABLE="firefox"
 export PATH=/home/florian/development/flutter/bin:/usr/local/bin:/usr/bin:/usr/local/sbin:/usr/lib/jvm/default/bin:/usr/bin/site_perl:/usr/bin/vendor_perl:/usr/bin/core_perl:/home/florian/.local/bin:/home/florian/.local/bin:/home/florian/.pub-cache/bin
 export DIFFPROG=meld
 export MERGEPROG=meld
+export EDITOR=nvim
